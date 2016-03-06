@@ -206,6 +206,7 @@ header-y += unix_diag.h
 header-y += inotify.h
 header-y += input.h
 header-y += ioctl.h
+header-y += msm_ion.h
 header-y += ion.h
 header-y += ip.h
 header-y += ip6_tunnel.h
